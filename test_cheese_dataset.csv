@@ -1,0 +1,5 @@
+ID,MilkTreatmentTypeEn,Organic,MoisturePercent,MilkTypeEn
+200, Pasteurized, 1, 45.0, Cow
+201, Raw, 0, 38.5, Goat
+202, Pasteurized, 1, 42.0, Cow
+203, Pasteurized, 0, 39.0, Cow

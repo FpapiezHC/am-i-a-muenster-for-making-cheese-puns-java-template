@@ -1,0 +1,3 @@
+Number of cheeses with pasteurized milk: 10
+Number of cheeses with raw milk: 5
+Most common milk type: Cow
